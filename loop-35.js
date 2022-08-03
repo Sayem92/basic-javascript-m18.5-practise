@@ -1,0 +1,7 @@
+// 35
+for( var i= 1; i <=86; i++){
+    if(i == 44){
+        break;
+    }
+    console.log(i);
+}
