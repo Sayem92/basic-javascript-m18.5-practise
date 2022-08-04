@@ -2,10 +2,10 @@ var mobileNames = ['Grammeen', 'Nokia', 'Nokia11', 'Samsung', 'Lava-iris', 'Symp
 
 // var mobileNameAll= mobileName[i];
 // aita kaj baki hoice na!!!
- 
-while( mobileNames < 9 ){
-      var mobileName = mobileNames[i];
-       mobileName++;
-      console.log(mobileName);
+ var i= 0; 
+while( i < mobileNames.length ){
+      console.log(mobileNames[i]);
+       i++;
+      
 }
-// hi found 
+// hi found

@@ -2,6 +2,8 @@
 
 // 1.javascript akti high level programming language. kub easyly kom code like output pawar jonno aita use kora hoy.
 // 2.variable gula kub shor and meaning ful hoy.
+// ### javascript is a scripting language that allows to emplement complex features on web pages.
+// ### can aslo be said as a programming language for the website.
 
 //>>>>>>>>>>>>>>>>>>>>>>>>>>>>> Q-2-------------------------------
 //ki vabe kaj kore javascript formula
